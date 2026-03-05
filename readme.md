@@ -969,6 +969,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Flour](https://fluorapp.net/) - Change the keyboard's fn keys. ![Free][free]
 - [Flux](https://justgetflux.com/) - Adjusts the screen brightness according to the time of day. ![Free][free]
 - [Gasmask](https://github.com/2ndalpha/gasmask) - Hosts file manager for MacOS. ![Open Source][oss]
+- [SaneHosts](https://sanehosts.com/) - Hosts file manager for system-wide ad and tracker blocking. ![Open Source][oss] ![Free][free]
 - [GeekTool](https://www.tynsoe.org/v2/geektool/) - Customize your desktop. ![Free][free]
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep. ![Open Source][oss]
 - [KeyCastr](https://github.com/keycastr/keycastr) - An open-source keystroke visualizer. ![Open Source][oss]
