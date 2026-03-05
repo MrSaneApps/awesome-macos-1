@@ -991,6 +991,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Pock](http://pock.pigigaldi.com/) - Display macOS Dock in Touch Bar. ![Open Source][oss]
 - [PrefsEditor](https://apps.tempel.org/PrefsEditor/) - A GUI for the 'defaults' command. ![Free][free]
 - [Rocket](https://matthewpalmer.net/rocket/) - Mind-blowing emoji on your Mac. ![Free][free]
+- [SaneClick](https://saneclick.com/) - Finder toolbar customizer for adding quick actions. ![Open Source][oss] ![Free][free]
 - [Service Station](https://servicestation.menu/) - Customize your Right-Click Menu. ![Free][free] ![Star][fav]
 - [Shottr](https://shottr.cc/) - Screenshot tool for those who care about pixels. ![Free][free]
 - [Sidebar](https://sidebarapp.net/) - The modern Dock replacement for your Mac. ![Dollar][mon]
