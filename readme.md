@@ -568,6 +568,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [PowerMeister](https://naden.co) - Conserve energy and improve Battery-Life on your MacBook. ![Dollar][mon]
 - [Presentify](https://presentify.compzets.com/) - Annotate literally anything on screen. ![Dollar][mon]
 - [Shifty](https://shifty.natethompson.io/en/) - A menu bar app that gives you more control over Night Shift. ![Open Source][oss]
+- [SaneBar](https://sanebar.com/) - Menu bar icon manager. Local-only alternative to Bartender. ![Open Source][oss] ![Free][free]
 - [Spaceman](https://github.com/Jaysce/Spaceman) - View Spaces and Virtual Desktops in the menu bar. ![Open Source][oss]
 - [Stats](https://github.com/exelban/stats) - Simple macOS system monitor in your menu bar. ![Open Source][oss]
 - [SwitchHosts](https://swh.app/) - Hosts management & switching. ![Open Source][oss]
