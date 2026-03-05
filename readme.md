@@ -193,6 +193,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 
 - [Copied](https://copied.app/) - Clipboard manager for macOS, iOS and iPadOS. ![Dollar][mon]
 - [Maccy](https://maccy.app/) - Keep your copy history at hand. Period. ![Open Source][oss]
+- [SaneClip](https://saneclip.com/) - Fast clipboard manager that keeps all history local. ![Open Source][oss] ![Free][free]
 - [Yippy](https://yippy.mattdavo.com/) - An open source clipboard manager for macOS. ![Open Source][oss]
 
 ### Cloud Storage
